@@ -2,12 +2,12 @@ package sample;
 
 import org.testng.annotations.Test;
 
-public class Demo {
+public class Demo1 {
 	@Test
+	
 	public void method()
 	{
-		System.out.println("Hi");
+		System.out.println("Hello");
 	}
 
 }
- 
