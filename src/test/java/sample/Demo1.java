@@ -8,6 +8,7 @@ public class Demo1 {
 	public void method()
 	{
 		System.out.println("Branch");
+		System.out.println("GIT");
 	}
 
 }
